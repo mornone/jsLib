@@ -1,6 +1,12 @@
 /**
  * Copyright©2012 Xiamen Meiah Pico IT CO., Ltd. 
  * All rights reserved.
+ * http://fuyun.safedog.cn/css/customAlert.css?223
+ * http://fuyun.safedog.cn/images/customAlert/yj_left.gif
+ * http://fuyun.safedog.cn/images/customAlert/yj_right.gif
+ * http://fuyun.safedog.cn/images/customAlert/close.gif
+ * http://fuyun.safedog.cn/images/customAlert/close.jpg
+ * 
  */
 
 var callbackFun;
