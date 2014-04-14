@@ -43,5 +43,6 @@ function cutstr(value, length) {
 	if (needSub) {
 		return value.substring(0, subLen) + "...";
 	}
-	return value;
+	//return value;
+	document.write(value);
 }
